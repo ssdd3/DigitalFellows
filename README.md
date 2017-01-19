@@ -1,1 +1,3 @@
-# DigitalFellows
+# Text Analysis and Text Classification with NLTK and scikit-learn
+
+Rachel Rakov created this workshop to teach students the conceptual basis of text analysis with the Natural Language Toolkit (NLTK) and scikit-learn (sklearn). By following a series of commands in the iPython Notebook, tutorial participants learn to classify, count, determine frequency distributions, tokenize words, tag parts of speech, build training and test sets, and use pandas DataFrames. 
